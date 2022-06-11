@@ -1,5 +1,4 @@
 {
-  "spider":"https://saulxxx.github.io/catvodtv/spider.jar"
   "sites": [
     {
       "key": "腾讯官网",
@@ -504,4 +503,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
+  "spider":"https://saulxxx.github.io/catvodtv/spider.jar"
 }
