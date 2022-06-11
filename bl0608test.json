@@ -1,5 +1,5 @@
 {
-  "https://saulxxx.github.io/catvodtv/spider.jar"
+  "spider":"https://saulxxx.github.io/catvodtv/spider.jar"
   "sites": [
     {
       "key": "腾讯官网",
