@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_77",
-      "name": "pglblb",
+      "name": "pglblb主页",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 0,
@@ -577,7 +577,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9maW5kNjE0L2xpdmUudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="
           ]
         }
       ]
