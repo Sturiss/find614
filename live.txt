@@ -1,4 +1,4 @@
-🌏港澳台,#genre#  
+🌏新闻体育,#genre#  
 
 凤凰中文,http://39.135.55.72:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 凤凰中文,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
@@ -32,17 +32,55 @@
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-TVBS新闻,http://liuy.usa7.20212021.ga/ns.php?id=38
-凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://183.207.249.35/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://183.207.249.35:80/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8?nsukey=z%2BBfKGEFyh4Fp0aB8zX65Hk%2FyuGRu%2Fcr4cTxr%2Bmmk%2BoDb%2F0zWYZbCxCPjv1Rv3gbKAFnEGidkItbbNfxHvbIQE3YCs8%2B6yymajONrpRyKCPjCYyxRhJg5hMneBwbsvWsOzUhH18%2By1JBzCS0%2Fq2vam7rkPILohuX3UVdt4Gey9FetDXUW5Ck5N4QX2N3QhKrr9Kh%2FuYotUicOdfnQ675Fg%3D%
-凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8?nsukey=z%2BBfKGEFyh4Fp0aB8zX65Hk%2FyuGRu%2Fcr4cTxr%2Bmmk%2BoDb%2F0zWYZbCxCPjv1Rv3gbKAFnEGidkItbbNfxHvbIQE3YCs8%2B6yymajONrpRyKCPjCYyxRhJg5hMneBwbsvWsOzUhH18%2By1JBzCS0%2Fq2vam7rkPILohuX3UVdt4Gey9FetDXUW5Ck5N4QX2N3QhKrr9Kh%2FuYotUicOdfnQ675Fg%3D%3D
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-澳门莲花,https://www.nettvpro.live/hls/lotustv.php
+CCTV-13 新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-13 新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-13 新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-5 体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5 体育,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV-5 体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5 体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5 体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5 体育,http://125.210.152.19:9090/live/hzgq-cctv5gq-h264.m3u8
+CCTV-5+ 体育赛事,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-5+ 体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV-5+ 体育赛事,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5+ 体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5+ 体育赛事,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
+CCTV-5+ 体育赛事,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5+ 体育赛事,http://125.210.152.19:9090/live/hzgq-cctvzhgq-h264.m3u8
+CCTV-16 奥林匹克,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
+CCTV-16 奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV-16 奥林匹克,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv16/1.m3u8?IASHttpSessionId=OTT
+CCTV-16 奥林匹克,http://39.135.55.72:6610/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV-16 奥林匹克,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8?
+CCTV-16 奥林匹克,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+CCTV-16 奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+CCTV-16 奥林匹克,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
+CCTV-16 奥林匹克,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
+CCTV-16 奥林匹克,http://39.134.115.163:8080/PLTV/88888910/224/3221226230/index.m3u8
+CCTV-16 奥林匹克,http://125.210.152.19:9090/live/hzgq-cctv16gq-h264.m3u8
+劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+精品体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
+新视觉，http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新视觉，http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+Eurosport1 高清，http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
+Eurosport1 高清，http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+Eurosport2 高清，http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
+Eurosport2 高清，http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
+Eurosport1，http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8
+Eurosport1，http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
+Eurosport2，http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+TNTSPORTS 1，https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNTSPORTS 2，https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNTSPORTS 3，https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+TNTSPORTS 4，https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+TNTSPORTS 5，https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 📺央视,#genre#
 
@@ -133,7 +171,15 @@ CCTV-14 少儿,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u
 CCTV-14 少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 CCTV-15 音乐,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-15 音乐,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-16 奥林匹克,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
 CCTV-16 奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV-16 奥林匹克,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv16/1.m3u8?IASHttpSessionId=OTT
+CCTV-16 奥林匹克,http://39.135.55.72:6610/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV-16 奥林匹克,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8?
+CCTV-16 奥林匹克,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+CCTV-16 奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+CCTV-16 奥林匹克,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
+CCTV-16 奥林匹克,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
 CCTV-16 奥林匹克,http://39.134.115.163:8080/PLTV/88888910/224/3221226230/index.m3u8
 CCTV-16 奥林匹克,http://125.210.152.19:9090/live/hzgq-cctv16gq-h264.m3u8
 CCTV-17 农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
