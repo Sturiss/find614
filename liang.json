@@ -152,8 +152,17 @@
             "filterable": 1
         },
         {
+            "key": "csp_If101",
+            "name": "🦜If101(SP)",
+            "type": 3,
+            "api": "csp_If101",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Olevod",
-            "name": "xx(SP)",
+            "name": "🦚欧乐影院(SP)",
             "type": 3,
             "api": "csp_Olevod",
             "searchable": 1,
@@ -170,19 +179,19 @@
             "filterable": 1
         },
         {
-            "key": "csp_AliPanSou",
+            "key": "csp_AliPS",
             "name": "🐱喵狸盘搜(只支持搜索)",
             "type": 3,
-            "api": "csp_AliPanSou",
+            "api": "csp_AliPS",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
         },
         {
-            "key": "csp_GitCafe",
+            "key": "csp_Gitcafe",
             "name": "📃小纸条",
             "type": 3,
-            "api": "csp_GitCafe",
+            "api": "csp_Gitcafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -207,7 +216,7 @@
         },
         {
             "key": "csp_xpath_qiumi",
-            "name": "🏀球迷",
+            "name": "🏀球迷(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -217,7 +226,7 @@
         },
         {
             "key": "csp_xpath_88kanqiu",
-            "name": "🏮88看球",
+            "name": "🏮88看球(XP)",
             "type": 3,
             "api": "csp_XPathMac",
             "searchable": 1,
