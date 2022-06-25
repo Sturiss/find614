@@ -1,7 +1,7 @@
 //"wallpaper":"https://api.btstu.cn/sjbz/?lx=dongman",  fengjing  meinv 
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://saulxxx.github.io/find614/jar/ts0621.jar",
+    "spider": "https://saulxxx.github.io/find614/jar/0625.jar",
     "lives": [
         {
             "group": "redirect",
@@ -17,10 +17,10 @@
     ],
     "sites": [
         {
-            "key": "csp_Czsapp",
+            "key": "csp_CZSPP",
             "name": "🚬厂长(SP)",
             "type": 3,
-            "api": "csp_Czsapp",
+            "api": "csp_CZSPP",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -39,6 +39,24 @@
             "name": "🎈快看(SP)",
             "type": 3,
             "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_IKan",
+            "name": "🎈爱看(SP)",
+            "type": 3,
+            "api": "csp_IKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_n0ys",
+            "name": "🎈1090影视(SP)",
+            "type": 3,
+            "api": "csp_n0ys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -116,9 +134,9 @@
             "filterable": 1
         },
         {
-            "key": "csp_Ddrk",
+            "key": "csp_DiDuan",
             "name": "🌀低端影视(SP)",
-            "api": "csp_Ddrk",
+            "api": "csp_DiDuan",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -143,12 +161,12 @@
             "filterable": 1
         },
         {
-            "key": "csp_Bili",
-            "name": "🎸MTV(SP)",
+            "key": "csp_BBB",
+            "name": "🎸哔哩(SP)",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
+            "api": "csp_BBB",
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1
         },
         {
@@ -179,10 +197,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_AliPS",
+            "key": "csp_AliPanSou",
             "name": "🐱喵狸盘搜(只支持搜索)",
             "type": 3,
-            "api": "csp_AliPS",
+            "api": "csp_AliPanSou",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
