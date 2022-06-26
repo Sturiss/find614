@@ -235,6 +235,16 @@
             "ext": "https://saulxxx.github.io/find614/XBP/厂长资源-蓝光.json"
         },
         {
+            "key": "csp_xpath_pianku",
+            "name": "🏓片库(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/pianku.json"
+        },
+        {
             "key": "csp_xpath_lezhutv",
             "name": "🏓乐猪TV(XPM)",
             "type": 3,
@@ -245,14 +255,24 @@
             "ext": "https://saulxxx.github.io/find614/XBP/lezhutv.json"
         },
         {
-            "key": "csp_xpath_cerrd",
-            "name": "🏓真不卡影院(XP)",
+            "key": "csp_xpath_cokemv",
+            "name": "🏓Cokemv(XPF)",
             "type": 3,
-            "api": "csp_XPath",
+            "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/cerrd.json"
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/find614/XBP/cokemv.json"
+        },
+        {
+            "key": "csp_xpath_zxzj2",
+            "name": "🏓在线之家(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/find614/XBP/cokemv/zxzj2.json"
         },
         {
             "key": "csp_xpath_libv",
@@ -263,16 +283,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/find614/XBP/libv.json"
-        },
-        {
-            "key": "csp_xpath_cokemv",
-            "name": "🏓Cokemv(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/find614/XBP/cokemv.json"
         },
         {
             "key": "300看世界",
