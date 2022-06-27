@@ -97,15 +97,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_N0ys",
-            "name": "🎬1090影视(SP)",
-            "type": 3,
-            "api": "csp_N0ys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Zxzj",
             "name": "🍉在线之家(SP)",
             "type": 3,
@@ -142,100 +133,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_Dy555",
-            "name": "🐞555电影(SP)",
-            "type": 3,
-            "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Fantuan",
-            "name": "🐞饭团(SP)",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Juhuang",
-            "name": "🐞剧皇(SP)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Juzi",
-            "name": "🐞橘子(SP)",
-            "type": 3,
-            "api": "csp_Juzi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Languang",
-            "name": "🐞J13(SP)",
-            "type": 3,
-            "api": "csp_Languang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Lgyy",
-            "name": "🐞蓝光影院(SP)",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Subaibai",
-            "name": "🐞Sbb(SP)",
-            "type": 3,
-            "api": "csp_Subaibai",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Tkys",
             "name": "🐞天空影视(SP)",
             "type": 3,
             "api": "csp_Tkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Qicui",
-            "name": "🐞奇粹影视",
-            "type": 3,
-            "api": "csp_Qicui",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Buka",
-            "name": "🐞真不卡(SP)",
-            "type": 3,
-            "api": "csp_Buka",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "奈落影院",
-            "name": "🐞奈落影院(SP)",
-            "type": 3,
-            "api": "csp_Newfii",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -324,24 +225,6 @@
         {
             "key": "csp_Blixq",
             "name": "🧑‍🤝‍🧑戏曲",
-            "type": 3,
-            "api": "csp_Blixq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Blixq",
-            "name": "🧑‍🤝‍🧑jc",
-            "type": 3,
-            "api": "csp_Blijc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Blixq",
-            "name": "🧑‍🤝‍🧑qx",
             "type": 3,
             "api": "csp_Bliqx",
             "searchable": 1,
