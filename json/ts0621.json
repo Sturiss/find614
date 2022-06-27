@@ -1,7 +1,6 @@
-//"wallpaper":"https://api.btstu.cn/sjbz/?lx=dongman",  fengjing  meinv 
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://saulxxx.github.io/find614/jar/bc0627.jar",
+    "spider": "https://saulxxx.github.io/find614/jar/ts0621.jar",
     "lives": [
         {
             "group": "redirect",
@@ -20,7 +19,7 @@
             "key": "csp_CZSPP",
             "name": "🚬厂长(SP)",
             "type": 3,
-            "api": "csp_CZSPP",
+            "api": "csp_Czsapp",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -39,24 +38,6 @@
             "name": "🎈快看(SP)",
             "type": 3,
             "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_IKan",
-            "name": "❤️爱看(SP)",
-            "type": 3,
-            "api": "csp_IKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Mjxq",
-            "name": "🌎美剧星球(SP)",
-            "type": 3,
-            "api": "csp_Mjxq",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -91,17 +72,8 @@
         {
             "key": "csp_DiDuan",
             "name": "🌀低端影视(SP)",
-            "api": "csp_DiDuan",
+            "api": "csp_Ddrk",
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_N0ys",
-            "name": "🎬1090影视(SP)",
-            "type": 3,
-            "api": "csp_N0ys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -125,28 +97,28 @@
             "filterable": 1
         },
         {
-            "key": "csp_DY1990",
-            "name": "🍐1990电影(SP)",
+            "key": "小宝影院",
+            "name": "🐼小宝影院(SP)",
             "type": 3,
-            "api": "csp_DY1990",
+            "api": "csp_Xiaoh",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "csp_Buka",
-            "name": "🧼真不卡(SP)",
+            "key": "csp_If101",
+            "name": "🦜If101(SP)",
             "type": 3,
-            "api": "csp_Buka",
+            "api": "csp_If101",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "csp_Nbys",
-            "name": "✈️泥巴(SP需翻墙)",
+            "key": "csp_Olevod",
+            "name": "🦚欧乐影院(SP)",
             "type": 3,
-            "api": "csp_Nbys",
+            "api": "csp_Olevod",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -155,7 +127,7 @@
             "key": "csp_GitCafe",
             "name": "📃小纸条(SP)",
             "type": 3,
-            "api": "csp_GitCafe",
+            "api": "csp_Gitcafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -164,7 +136,7 @@
             "key": "csp_AliPanSou",
             "name": "🐱喵狸盘搜(只支持搜索)",
             "type": 3,
-            "api": "csp_AliPanSou",
+            "api": "csp_AliPS",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -177,6 +149,15 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "csp_Blixs",
+            "name": "🧑‍🤝‍🧑相声小品(SP)",
+            "type": 3,
+            "api": "csp_Blixs",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
         },
         {
             "key": "csp_xpath_qiumi",
