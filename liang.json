@@ -53,10 +53,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_Mjxq",
-            "name": "🌎美剧星球(SP)",
+            "key": "csp_DiDuan",
+            "name": "🌀低端影视(SP)",
+            "api": "csp_DiDuan",
             "type": 3,
-            "api": "csp_Mjxq",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -84,15 +84,6 @@
             "name": "🦋Auete(SP)",
             "type": 3,
             "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_DiDuan",
-            "name": "🌀低端影视(SP)",
-            "api": "csp_DiDuan",
-            "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -138,6 +129,15 @@
             "name": "🧼真不卡(SP)",
             "type": 3,
             "api": "csp_Buka",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Mjxq",
+            "name": "🌎美剧星球(SP)",
+            "type": 3,
+            "api": "csp_Mjxq",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
