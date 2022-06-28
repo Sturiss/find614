@@ -171,7 +171,7 @@
         },
         {
             "key": "Push_Agent",
-            "name": "🏄‍♂️推送（阿里）",
+            "name": "推送",
             "type": 3,
             "api": "csp_PushAgent",
             "searchable": 0,
