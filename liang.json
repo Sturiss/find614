@@ -170,7 +170,7 @@
             "filterable": 0
         },
         {
-            "key": "Push_Agent",
+            "key": "push_agent",
             "name": "推送",
             "type": 3,
             "api": "csp_PushAgent",
@@ -308,6 +308,16 @@
             "ext": "https://saulxxx.github.io/find614/XBP/Gimy2.json"
         },
         {
+            "key": "csp_大米星球",
+            "name": "🏀大米星球(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/dmxq.json"
+        },
+        {
             "key": "300看世界",
             "name": "🎱300看世界(V2)",
             "type": 3,
@@ -318,8 +328,16 @@
             "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
         },
         {
+            "key": "8090资源",
+            "name": "🥎8090资源(官)",
+            "type": 1,
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "if101资源",
-            "name": "🚁if101(海外推荐)",
+            "name": "🥎if101(海外推荐)",
             "type": 0,
             "api": "https://demo.if101.tv/api.php/provide/vod/at/xml",
             "searchable": 1,
