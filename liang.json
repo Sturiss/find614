@@ -300,6 +300,16 @@
             "ext": "https://saulxxx.github.io/find614/XBP/Gimy2.json"
         },
         {
+            "key": "csp_xpath_bttwoo",
+            "name": "🏓两个BT(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/bttwoo.json"
+        },
+        {
             "key": "csp_大米星球",
             "name": "🏀大米星球(XB)",
             "type": 3,
@@ -320,6 +330,16 @@
             "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
         },
         {
+            "key": "csp_AppYsV2",
+            "name": "🎱9E国语",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
+        },
+        {
             "key": "8090资源",
             "name": "🥎8090资源(官)",
             "type": 1,
@@ -331,7 +351,7 @@
             "key": "if101资源",
             "name": "🥎if101(海外推荐)",
             "type": 0,
-            "api": "https://demo.if101.tv/api.php/provide/vod/at/xml",
+            "api": "http://api.if101.tv/v1/vod?ac=list",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
@@ -372,82 +392,11 @@
                     "User-Agent": "Dart/2.14 (dart:io)"
                 }
             }
-        },
-        {
-            "name": "Pro",
-            "type": 1,
-            "url": "http://api.vip123kan.vip/?url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "qq",
-                    "奇艺"
-                ]
-            }
-        },
+        },  
         {
             "name": "线路m9",
             "type": 1,
             "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
-        },
-        {
-            "name": "线路NX",
-            "type": 1,
-            "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
-        },
-        {
-            "name": "web1",
-            "type": 0,
-            "url": "https://www.nxflv.com/?url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "qq",
-                    "奇艺",
-                    "sohu",
-                    "letv"
-                ]
-            }
-        },
-        {
-            "name": "parwix1",
-            "type": 0,
-            "url": "https://jx.parwix.com:4433/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
         }
     ],
     "flags": [
@@ -457,12 +406,32 @@
         "qiyi",
         "letv",
         "sohu",
+        "letv",
         "tudou",
         "pptv",
         "mgtv",
         "wasu",
         "bilibili",
-        "renrenmi"
+        "leduo",
+        "fq3",
+        "fq4",
+        "xueren",
+        "duoduo",
+        "duoduozy",
+        "miaoparty",
+        "miaoparty2",
+        "miaoparty3",
+        "renrenmi",
+        "优酷",
+        "芒果",
+        "腾讯",
+        "爱奇艺",
+        "奇艺",
+        "ltnb",
+        "rx",
+        "CL4K",
+        "xfyun",
+        "wuduzy"
     ],
     "ijk": [
         {
