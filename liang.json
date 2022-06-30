@@ -1,7 +1,7 @@
 //"wallpaper":"https://api.btstu.cn/sjbz/?lx=dongman",  fengjing  meinv 
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://saulxxx.github.io/find614/jar/bc0627.jar",
+    "spider": "https://saulxxx.github.io/find614/jar/bc0630.jar",
     "lives": [
         {
             "group": "redirect",
@@ -62,6 +62,15 @@
             "filterable": 1
         },
         {
+            "key": "csp_SP360",
+            "name": "🎾360(SP)",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Cokemv",
             "name": "🍳Cokemv(SP)",
             "type": 3,
@@ -70,12 +79,20 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        //{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
         {
             "key": "csp_Auete",
             "name": "🦋Auete(SP)",
             "type": 3,
             "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "spider_Bttoo",
+            "name": "📚2BT(SP)",
+            "type": 3,
+            "api": "csp_Bttoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -94,15 +111,6 @@
             "name": "🍉在线之家(SP)",
             "type": 3,
             "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_SP360",
-            "name": "🎾360(SP)",
-            "type": 3,
-            "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -300,16 +308,6 @@
             "ext": "https://saulxxx.github.io/find614/XBP/Gimy2.json"
         },
         {
-            "key": "csp_xpath_bttwoo",
-            "name": "🏓两个BT(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/bttwoo.json"
-        },
-        {
             "key": "csp_大米星球",
             "name": "🏀大米星球(XB)",
             "type": 3,
@@ -320,8 +318,18 @@
             "ext": "https://saulxxx.github.io/find614/XBP/dmxq.json"
         },
         {
+            "key": "csp_appys_美剧虫",
+            "name": "⚾️美剧虫(V1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
             "key": "300看世界",
-            "name": "🎱300看世界(V2)",
+            "name": "🥎300看世界(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -331,7 +339,7 @@
         },
         {
             "key": "csp_AppYsV2",
-            "name": "🎱9E国语",
+            "name": "🥎9E国语(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -341,7 +349,7 @@
         },
         {
             "key": "8090资源",
-            "name": "🥎8090资源(官)",
+            "name": "🏐8090资源(官)",
             "type": 1,
             "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
             "searchable": 1,
@@ -349,7 +357,7 @@
         },
         {
             "key": "一帆资源(VPN)",
-            "name": "🥎一帆资源(VPN)(优)",
+            "name": "🏐一帆资源(VPN)(优)",
             "type": 1,
             "api": "http://api.if101.tv/v1/vod?ac=list",
             "searchable": 0,
