@@ -348,13 +348,12 @@
             "quickSearch": 1
         },
         {
-            "key": "if101资源",
-            "name": "🥎if101(海外推荐)",
-            "type": 0,
+            "key": "一帆资源(VPN)",
+            "name": "🥎一帆资源(VPN)(优)",
+            "type": 1,
             "api": "http://api.if101.tv/v1/vod?ac=list",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
+            "searchable": 0,
+            "quickSearch": 0
         }
     ],
     "parses": [
@@ -392,7 +391,7 @@
                     "User-Agent": "Dart/2.14 (dart:io)"
                 }
             }
-        },  
+        },
         {
             "name": "线路m9",
             "type": 1,
