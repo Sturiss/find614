@@ -1,7 +1,6 @@
-//"wallpaper":"https://api.btstu.cn/sjbz/?lx=dongman",  fengjing  meinv 
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://saulxxx.github.io/find614/jar/bc0701.jar",
+    "spider": "https://saulxxx.github.io/find614/jar/yun.jar",
     "lives": [
         {
             "group": "redirect",
@@ -116,15 +115,6 @@
             "filterable": 0
         },
         {
-            "key": "csp_N0ys",
-            "name": "🎬1090影视(SP)",
-            "type": 3,
-            "api": "csp_N0ys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Zxzj",
             "name": "🍉在线之家(SP)",
             "type": 3,
@@ -138,15 +128,6 @@
             "name": "🍐1990电影(SP)",
             "type": 3,
             "api": "csp_DY1990",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Buka",
-            "name": "🧼真不卡(SP)",
-            "type": 3,
-            "api": "csp_Buka",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -167,6 +148,94 @@
             "api": "csp_Nbys",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Tkys",
+            "name": "🧿天空影视(SP)",
+            "type": 3,
+            "api": "csp_Tkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_AliPanSou",
+            "name": "🐱喵狸盘搜(只支持搜索)",
+            "type": 3,
+            "api": "csp_AliPanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        //{ "key": "csp_N0ys", "name": "🎬1090影视(SP)", "type": 3, "api": "csp_N0ys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Buka", "name": "🧼真不卡(SP)", "type": 3, "api": "csp_Buka", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Dy555", "name": "🐞555电影", "type": 3, "api": "csp_Dy555", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Fantuan", "name": "🐞饭团", "type": 3, "api": "csp_Fantuan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Aidi", "name": "🐞爱迪(SP)", "type": 3, "api": "csp_Aidi", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Juhuang", "name": "🐞剧皇(SP)", "type": 3, "api": "csp_Juhuang", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Hdmoli1", "name": "🐞茉莉(SP)", "type": 3, "api": "csp_Hdmoli1", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Kmys", "name": "🐞酷猫影视", "type": 3, "api": "csp_Kmys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Juzi", "name": "🐞橘子影视", "type": 3, "api": "csp_Juzi", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Newfii", "name": "🐞奈落影院", "type": 3, "api": "csp_Newfii", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Qicui", "name": "🐞奇粹影视", "type": 3, "api": "csp_Qicui", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Lgyy", "name": "🐞蓝光影院", "type": 3, "api": "csp_Lgyy", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Languang", "name": "🐞蓝光影院2", "type": 3, "api": "csp_Languang", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Subaibai", "name": "🐞素白白", "type": 3, "api": "csp_Subaibai", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Ysgc", "name": "🐞影视工厂", "type": 3, "api": "csp_Ysgc", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_SPSogou", "name": "🐞搜狗", "type": 3, "api": "csp_SPSogou", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        {
+            "key": "csp_Blixs",
+            "name": "🧑‍🤝‍🧑相声小品(SP)",
+            "type": 3,
+            "api": "csp_Blixs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bliyc",
+            "name": "🧑‍🤝‍🧑演唱会",
+            "type": 3,
+            "api": "csp_Bliyc",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Blidw",
+            "name": "🧑‍🤝‍🧑动物世界",
+            "type": 3,
+            "api": "csp_Blidw",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bliqx",
+            "name": "🧑‍🤝‍🧑体育",
+            "type": 3,
+            "api": "csp_Bliqx",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Blixq",
+            "name": "🧑‍🤝‍🧑戏曲",
+            "type": 3,
+            "api": "csp_Blixq",
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1
         },
         {
@@ -353,24 +422,6 @@
             "api": "http://api.if101.tv/v1/vod?ac=list",
             "searchable": 1,
             "quickSearch": 1
-        },
-        {
-            "key": "csp_AliPanSou",
-            "name": "🐱喵狸盘搜(只支持搜索)",
-            "type": 3,
-            "api": "csp_AliPanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
         }
     ],
     "parses": [
