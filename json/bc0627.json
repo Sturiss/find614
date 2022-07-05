@@ -1,6 +1,7 @@
+//"wallpaper":"https://api.btstu.cn/sjbz/?lx=dongman",  fengjing  meinv 
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://saulxxx.github.io/find614/jar/bc0627.jar",
+    "spider": "https://saulxxx.github.io/find614/jar/bc0701.jar",
     "lives": [
         {
             "group": "redirect",
@@ -25,17 +26,17 @@
             "filterable": 1
         },
         {
-            "key": "csp_Kunyu77",
-            "name": "👒七七(SP)",
+            "key": "csp_SP360",
+            "name": "🎾360(SP)",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
             "key": "csp_Kuaikan",
-            "name": "🎈快看(SP)",
+            "name": "👀快看(SP)",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -52,10 +53,19 @@
             "filterable": 1
         },
         {
-            "key": "csp_Mjxq",
-            "name": "🌎美剧星球(SP)",
+            "key": "csp_LiteApple",
+            "name": "🍎小苹果(SP)",
             "type": 3,
-            "api": "csp_Mjxq",
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "🌀低端影视(SP)",
+            "api": "csp_DiDuan",
+            "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -70,15 +80,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_LiteApple",
-            "name": "🍎小苹果(SP)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Auete",
             "name": "🦋Auete(SP)",
             "type": 3,
@@ -88,10 +89,19 @@
             "filterable": 1
         },
         {
-            "key": "csp_DiDuan",
-            "name": "🌀低端影视(SP)",
-            "api": "csp_DiDuan",
+            "key": "spider_Bttoo",
+            "name": "📚2BT(SP)",
             "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "👒七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -115,15 +125,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_SP360",
-            "name": "🎾360(SP)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_DY1990",
             "name": "🍐1990电影(SP)",
             "type": 3,
@@ -137,6 +138,15 @@
             "name": "🧼真不卡(SP)",
             "type": 3,
             "api": "csp_Buka",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Mjxq",
+            "name": "🌎美剧星球(SP)",
+            "type": 3,
+            "api": "csp_Mjxq",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -158,83 +168,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "csp_AliPanSou",
-            "name": "🐱喵狸盘搜(只支持搜索)",
-            "type": 3,
-            "api": "csp_AliPanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "Push_Agent",
-            "name": "🏄‍♂️推送（阿里）",
-            "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "csp_xpath_qiumi",
-            "name": "⚽️球迷(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/find614/XBP/qiumi.json"
-        },
-        {
-            "key": "csp_xpath_88kanqiu",
-            "name": "⚽️88看球(XP)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/88kanqiu.json"
-        },
-        {
-            "key": "csp_BBB",
-            "name": "🅱️哔哩(SP)",
-            "type": 3,
-            "api": "csp_BBB",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "csp_xpath_huya",
-            "name": "🐯虎牙(XP)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/find614/XBP/huya2.json"
-        },
-        {
-            "key": "csp_biubiu_斗鱼",
-            "name": "🐠斗鱼(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/斗鱼.json"
-        },
-        {
-            "key": "csp_xpath_kuqimv",
-            "name": "🎤酷奇MV(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/kuqimv.json"
         },
         {
             "key": "csp_biubiu_555电影",
@@ -307,8 +240,28 @@
             "ext": "https://saulxxx.github.io/find614/XBP/Gimy2.json"
         },
         {
+            "key": "csp_大米星球",
+            "name": "🏀大米星球(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/dmxq.json"
+        },
+        {
+            "key": "csp_appys_美剧虫",
+            "name": "⚾️美剧虫(V1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
             "key": "300看世界",
-            "name": "🎱300看世界(V2)",
+            "name": "🥎300看世界(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -317,11 +270,105 @@
             "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
         },
         {
-            "key": "if101资源",
-            "name": "🚁if101(海外推荐)",
-            "type": 0,
-            "api": "https://demo.if101.tv/api.php/provide/vod/at/xml",
+            "key": "csp_AppYsV2",
+            "name": "🥎9E国语(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
             "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
+        },
+        {
+            "key": "8090资源",
+            "name": "🏐8090资源(官)",
+            "type": 1,
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "一帆资源(VPN)",
+            "name": "🏐一帆资源(VPN)(优)",
+            "type": 1,
+            "api": "http://api.if101.tv/v1/vod?ac=list",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_xpath_qiumi",
+            "name": "⚽️球迷(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/find614/XBP/qiumi.json"
+        },
+        {
+            "key": "csp_xpath_88kanqiu",
+            "name": "⚽️88看球(XP)",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/88kanqiu.json"
+        },
+        {
+            "key": "csp_xpath_huya",
+            "name": "🐯虎牙(XP)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/find614/XBP/huya2.json"
+        },
+        {
+            "key": "csp_biubiu_斗鱼",
+            "name": "🐠斗鱼(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/斗鱼.json"
+        },
+        {
+            "key": "csp_xpath_kuqimv",
+            "name": "🎤酷奇MV(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/kuqimv.json"
+        },
+        {
+            "key": "csp_BBB",
+            "name": "🅱️哔哩(SP)",
+            "type": 3,
+            "api": "csp_BBB",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_AliPanSou",
+            "name": "🐱喵狸盘搜(只支持搜索)",
+            "type": 3,
+            "api": "csp_AliPanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
         }
@@ -341,6 +388,11 @@
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
+        },
+        {
+            "name": "线路m9",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
         },
         {
             "name": "293",
@@ -363,78 +415,47 @@
             }
         },
         {
-            "name": "Pro",
+            "name": "江湖解析",
             "type": 1,
-            "url": "http://api.vip123kan.vip/?url=",
+            "url": "http://103.40.240.46/jh/?url=",
             "ext": {
                 "flag": [
+                    "renrenmi",
+                    "qq",
+                    "腾讯",
                     "youku",
                     "优酷",
                     "mgtv",
                     "芒果",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "qq",
-                    "奇艺"
+                    "xigua",
+                    "西瓜"
                 ]
             }
         },
         {
-            "name": "线路m9",
+            "name": "王牌",
             "type": 1,
-            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
-        },
-        {
-            "name": "线路NX",
-            "type": 1,
-            "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
-        },
-        {
-            "name": "web1",
-            "type": 0,
-            "url": "https://www.nxflv.com/?url=",
+            "url": "https://za.kuanjv.com/?url=",
             "ext": {
                 "flag": [
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
                     "qq",
                     "腾讯",
                     "qiyi",
                     "爱奇艺",
-                    "qq",
                     "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "搜狐",
                     "sohu",
-                    "letv"
-                ]
-            }
-        },
-        {
-            "name": "parwix1",
-            "type": 0,
-            "url": "https://jx.parwix.com:4433/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
                     "letv",
                     "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
                     "bilibili",
                     "哔哩哔哩",
-                    "哔哩"
+                    "哔哩",
+                    "xigua",
+                    "西瓜"
                 ]
             }
         }

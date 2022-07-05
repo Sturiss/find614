@@ -107,6 +107,15 @@
             "filterable": 1
         },
         {
+            "key": "csp_GitCafe",
+            "name": "📃小纸条(SP)",
+            "type": 3,
+            "api": "csp_GitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "csp_N0ys",
             "name": "🎬1090影视(SP)",
             "type": 3,
@@ -161,31 +170,63 @@
             "filterable": 1
         },
         {
-            "key": "csp_GitCafe",
-            "name": "📃小纸条(SP)",
+            "key": "csp_BBB",
+            "name": "🅱️哔哩(SP)",
             "type": 3,
-            "api": "csp_GitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "csp_AliPanSou",
-            "name": "🐱喵狸盘搜(只支持搜索)",
-            "type": 3,
-            "api": "csp_AliPanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_PushAgent",
+            "api": "csp_BBB",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
+            "filterable": 1
+        },
+        {
+            "key": "csp_xpath_qiumi",
+            "name": "⚽️球迷(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/find614/XBP/qiumi.json"
+        },
+        {
+            "key": "csp_xpath_88kanqiu",
+            "name": "⚽️88看球(XP)",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/88kanqiu.json"
+        },
+        {
+            "key": "csp_xpath_huya",
+            "name": "🐯虎牙(XP)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/find614/XBP/huya2.json"
+        },
+        {
+            "key": "csp_biubiu_斗鱼",
+            "name": "🐠斗鱼(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/斗鱼.json"
+        },
+        {
+            "key": "csp_xpath_kuqimv",
+            "name": "🎤酷奇MV(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/find614/XBP/kuqimv.json"
         },
         {
             "key": "csp_biubiu_555电影",
@@ -235,7 +276,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/czspp.json"  
+            "ext": "https://saulxxx.github.io/find614/XBP/czspp.json"
         },
         {
             "key": "csp_xpath_cokemv",
@@ -310,67 +351,26 @@
             "name": "🏐一帆资源(VPN)(优)",
             "type": 1,
             "api": "http://api.if101.tv/v1/vod?ac=list",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "csp_xpath_qiumi",
-            "name": "⚽️球迷(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/find614/XBP/qiumi.json"
+            "quickSearch": 1
         },
         {
-            "key": "csp_xpath_88kanqiu",
-            "name": "⚽️88看球(XP)",
+            "key": "csp_AliPanSou",
+            "name": "🐱喵狸盘搜(只支持搜索)",
             "type": 3,
-            "api": "csp_XPathMac",
+            "api": "csp_AliPanSou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/88kanqiu.json"
+            "filterable": 0
         },
         {
-            "key": "csp_xpath_huya",
-            "name": "🐯虎牙(XP)",
+            "key": "push_agent",
+            "name": "推送",
             "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/find614/XBP/huya2.json"
-        },
-        {
-            "key": "csp_biubiu_斗鱼",
-            "name": "🐠斗鱼(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/斗鱼.json"
-        },
-        {
-            "key": "csp_xpath_kuqimv",
-            "name": "🎤酷奇MV(XP)",
-            "type": 3,
-            "api": "csp_XPath",
+            "api": "csp_PushAgent",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/kuqimv.json"
-        },
-        {
-            "key": "csp_BBB",
-            "name": "🅱️哔哩(SP)",
-            "type": 3,
-            "api": "csp_BBB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         }
     ],
     "parses": [

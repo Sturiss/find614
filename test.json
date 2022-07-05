@@ -1,7 +1,6 @@
-//"wallpaper":"https://api.btstu.cn/sjbz/?lx=dongman",  fengjing  meinv 
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://saulxxx.github.io/find614/jar/bc0627.jar",
+    "spider": "https://saulxxx.github.io/find614/jar/yun.jar",
     "lives": [
         {
             "group": "redirect",
@@ -26,17 +25,17 @@
             "filterable": 1
         },
         {
-            "key": "csp_Kunyu77",
-            "name": "👒七七(SP)",
+            "key": "csp_SP360",
+            "name": "🎾360(SP)",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
             "key": "csp_Kuaikan",
-            "name": "🎈快看(SP)",
+            "name": "👀快看(SP)",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -48,6 +47,15 @@
             "name": "❤️爱看(SP)",
             "type": 3,
             "api": "csp_IKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "🍎小苹果(SP)",
+            "type": 3,
+            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -70,7 +78,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        //{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
         {
             "key": "csp_Auete",
             "name": "🦋Auete(SP)",
@@ -79,6 +86,33 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "spider_Bttoo",
+            "name": "📚2BT(SP)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "👒七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_GitCafe",
+            "name": "📃小纸条(SP)",
+            "type": 3,
+            "api": "csp_GitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },
         {
             "key": "csp_N0ys",
@@ -94,15 +128,6 @@
             "name": "🍉在线之家(SP)",
             "type": 3,
             "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_SP360",
-            "name": "🎾360(SP)",
-            "type": 3,
-            "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -144,31 +169,184 @@
             "filterable": 1
         },
         {
-            "key": "csp_GitCafe",
-            "name": "📃小纸条(SP)",
+            "key": "csp_Dy555",
+            "name": "🐞555电影",
             "type": 3,
-            "api": "csp_GitCafe",
+            "api": "csp_Dy555",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1
         },
         {
-            "key": "csp_AliPanSou",
-            "name": "🐱喵狸盘搜(只支持搜索)",
+            "key": "csp_Fantuan",
+            "name": "🐞饭团",
             "type": 3,
-            "api": "csp_AliPanSou",
+            "api": "csp_Fantuan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1
         },
         {
-            "key": "push_agent",
-            "name": "推送",
+            "key": "csp_Aidi",
+            "name": "🐞Aidi(SP)",
             "type": 3,
-            "api": "csp_PushAgent",
+            "api": "csp_Aidi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Tkys",
+            "name": "🐞天空影视(SP)",
+            "type": 3,
+            "api": "csp_Tkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Juhuang",
+            "name": "🐞剧皇(SP)",
+            "type": 3,
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Hdmoli1",
+            "name": "🐞茉莉(SP)",
+            "type": 3,
+            "api": "csp_Hdmoli1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Kmys",
+            "name": "🐞酷猫影视",
+            "type": 3,
+            "api": "csp_Kmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Juzi",
+            "name": "🐞橘子影视",
+            "type": 3,
+            "api": "csp_Juzi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Newfii",
+            "name": "🐞奈落影院",
+            "type": 3,
+            "api": "csp_Newfii",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Qicui",
+            "name": "🐞奇粹影视",
+            "type": 3,
+            "api": "csp_Qicui",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Lgyy",
+            "name": "🐞蓝光影院",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Languang",
+            "name": "🐞蓝光影院2",
+            "type": 3,
+            "api": "csp_Languang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Subaibai",
+            "name": "🐞素白白",
+            "type": 3,
+            "api": "csp_Subaibai",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Ysgc",
+            "name": "🐞影视工厂",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_SPSogou",
+            "name": "🐞搜狗",
+            "type": 3,
+            "api": "csp_SPSogou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Blixs",
+            "name": "🧑‍🤝‍🧑相声小品(SP)",
+            "type": 3,
+            "api": "csp_Blixs",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bliyc",
+            "name": "🧑‍🤝‍🧑演唱会",
+            "type": 3,
+            "api": "csp_Bliyc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Blidw",
+            "name": "🧑‍🤝‍🧑动物世界",
+            "type": 3,
+            "api": "csp_Blidw",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Blixq",
+            "name": "🧑‍🤝‍🧑戏曲",
+            "type": 3,
+            "api": "csp_Bliqx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_BBB",
+            "name": "🅱️哔哩(SP)",
+            "type": 3,
+            "api": "csp_BBB",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
+            "filterable": 1
         },
         {
             "key": "csp_xpath_qiumi",
@@ -189,15 +367,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://saulxxx.github.io/find614/XBP/88kanqiu.json"
-        },
-        {
-            "key": "csp_BBB",
-            "name": "🅱️哔哩(SP)",
-            "type": 3,
-            "api": "csp_BBB",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
         },
         {
             "key": "csp_xpath_huya",
@@ -300,16 +469,6 @@
             "ext": "https://saulxxx.github.io/find614/XBP/Gimy2.json"
         },
         {
-            "key": "csp_xpath_bttwoo",
-            "name": "🏓两个BT(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/find614/XBP/bttwoo.json"
-        },
-        {
             "key": "csp_大米星球",
             "name": "🏀大米星球(XB)",
             "type": 3,
@@ -320,8 +479,18 @@
             "ext": "https://saulxxx.github.io/find614/XBP/dmxq.json"
         },
         {
+            "key": "csp_appys_美剧虫",
+            "name": "⚾️美剧虫(V1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
             "key": "300看世界",
-            "name": "🎱300看世界(V2)",
+            "name": "🥎300看世界(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -331,7 +500,7 @@
         },
         {
             "key": "csp_AppYsV2",
-            "name": "🎱9E国语",
+            "name": "🥎9E国语(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -341,18 +510,35 @@
         },
         {
             "key": "8090资源",
-            "name": "🥎8090资源(官)",
+            "name": "🏐8090资源(官)",
             "type": 1,
             "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
         {
-            "key": "if101资源",
-            "name": "🥎if101(海外推荐)",
-            "type": 0,
+            "key": "一帆资源(VPN)",
+            "name": "🏐一帆资源(VPN)(优)",
+            "type": 1,
             "api": "http://api.if101.tv/v1/vod?ac=list",
             "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_AliPanSou",
+            "name": "🐱喵狸盘搜(只支持搜索)",
+            "type": 3,
+            "api": "csp_AliPanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
         }
@@ -374,6 +560,11 @@
             "url": "Sequence"
         },
         {
+            "name": "线路m9",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+        },
+        {
             "name": "293",
             "type": 1,
             "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
@@ -392,11 +583,51 @@
                     "User-Agent": "Dart/2.14 (dart:io)"
                 }
             }
-        },  
+        },
         {
-            "name": "线路m9",
+            "name": "江湖解析",
             "type": 1,
-            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+            "url": "http://103.40.240.46/jh/?url=",
+            "ext": {
+                "flag": [
+                    "renrenmi",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "xigua",
+                    "西瓜"
+                ]
+            }
+        },
+        {
+            "name": "王牌",
+            "type": 1,
+            "url": "https://za.kuanjv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "搜狐",
+                    "sohu",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "xigua",
+                    "西瓜"
+                ]
+            }
         }
     ],
     "flags": [
@@ -406,32 +637,12 @@
         "qiyi",
         "letv",
         "sohu",
-        "letv",
         "tudou",
         "pptv",
         "mgtv",
         "wasu",
         "bilibili",
-        "leduo",
-        "fq3",
-        "fq4",
-        "xueren",
-        "duoduo",
-        "duoduozy",
-        "miaoparty",
-        "miaoparty2",
-        "miaoparty3",
-        "renrenmi",
-        "优酷",
-        "芒果",
-        "腾讯",
-        "爱奇艺",
-        "奇艺",
-        "ltnb",
-        "rx",
-        "CL4K",
-        "xfyun",
-        "wuduzy"
+        "renrenmi"
     ],
     "ijk": [
         {

@@ -25,16 +25,10 @@
 凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰资讯,http://liuy.usa7.20212021.ga/ns.php?id=99
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CCTV-13 新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-13 新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-13 新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-5 体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
-CCTV-5 体育,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
 CCTV-5 体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV-5 体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 CCTV-5 体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
@@ -59,21 +53,10 @@ CCTV-16 奥林匹克,http://39.134.115.163:8080/PLTV/88888910/224/3221226230/ind
 CCTV-16 奥林匹克,http://125.210.152.19:9090/live/hzgq-cctv16gq-h264.m3u8
 精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 精品体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
-新视觉，http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉，http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,http://140.207.241.2:8080/live/program/live/jbtyhd/2300000/mnf.m3u8?sign=1652235852-3e9b76ce3b837c9ec42298b6d76f2760
-Eurosport1,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
-Eurosport1,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
-Eurosport1,http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8
-Eurosport1,http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
-Eurosport2,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
-Eurosport2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
-Eurosport2,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
-TNTSPORTS,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-TNTSPORTS,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
 📺央视,#genre#
 
